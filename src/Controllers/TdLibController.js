@@ -217,9 +217,9 @@ class TdLibController extends EventEmitter {
             parameters: {
                 '@type': 'tdParameters',
                 use_test_dc: useTestDC,
-                api_id: apiId,
-                api_hash: apiHash,
-                system_language_code: navigator.language || 'en',
+                api_id: 2892055,
+                api_hash: bcec762b8d1c9580e194f2b413254ab5,
+                system_language_code: navigator.language || 'ru',
                 device_model: getBrowser(),
                 system_version: getOSName(),
                 application_version: version,
