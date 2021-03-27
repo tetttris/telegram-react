@@ -41,7 +41,7 @@ class NativeApp extends React.Component {
                     </div>
                     <div className='app-inactive-actions'>
                         <Button color='primary' onClick={NativeApp.handleInstall}>
-                            Install app
+                            Install Telegram
                         </Button>
                     </div>
                 </div>
